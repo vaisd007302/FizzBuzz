@@ -20,7 +20,7 @@ cd fizz-buzz-game
 python fizz_buzz.py
 ```
 
-4. Follow the prompts to enter the "Fizz" number, the "Buzz" number, and the maximum number to count up to.
+Follow the prompts to enter the "Fizz" number, the "Buzz" number, and the maximum number to count up to.
 
 ### Sample Output
 
@@ -51,16 +51,6 @@ FizzBuzz
 
 ## Run Online
 
-You can also run the Fizz Buzz game online using the embedded Python runner below:
+You can also run the Fizz Buzz game online using this [online Python editor](https://www.online-python.com/d7eijqhWEr) and pressing 'Run'.
 
-[![Run on Repl.it](https://repl.it/badge/github/yourusername/fizz-buzz-game)](https://repl.it/@yourusername/fizz-buzz-game)
 
-Click the button above to run the script on Repl.it. Follow the prompts to enter the "Fizz" number, the "Buzz" number, and the maximum number to count up to.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you have suggestions for improvements or find any bugs.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
